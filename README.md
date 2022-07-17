@@ -1,5 +1,5 @@
 # Open Network For Digital Commerce
-Goverment Project
+Goverment Project -
 The Open Network for Digital Commerce (ONDC) is a network that will link buyers, sellers, and other go-betweens through a fee-based gateway that ONDC established and will continue to manage to provide stakeholders with multi-layered exposure. It intends to democratize digital commerce by giving small sellers an equal playing field and giving customers a variety of options. This will be accomplished through an open network that is powered by open-source and accessible to everyone through their current platforms (App, Website, etc). In the ONDC system, the seller-side platform will be in charge of initially resolving consumer complaints. If unsatisfied, the consumer will have the choice to contact a third-party, network-verified online dispute resolution site.
 
 We all have a lot of questions about ONDC, and very generic answers to what it’s all about. So let us keep aside all the jargon and understand ONDC from a layman’s perspective in simple terms.
